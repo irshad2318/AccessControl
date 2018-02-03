@@ -2,6 +2,8 @@ import os
 from sys import argv
 
 def main():
+    """Lenel Access Controll System unofficail Attendance System"""
+
     print("EMPID : " '{}'  " No Of Days : " '{}'.format(empid, top))
     cnt = input("enter")
     if cnt == 'q':
